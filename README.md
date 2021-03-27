@@ -1,1 +1,1 @@
-# US-City-Bike-Share-Data
+# Run the programm from a command line using python 2
