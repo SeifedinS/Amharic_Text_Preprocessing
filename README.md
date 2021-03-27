@@ -1,1 +1,1 @@
-# Run the programm from a command line using python 2
+# Run the program from a command line using python 2
